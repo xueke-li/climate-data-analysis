@@ -9,20 +9,19 @@ These tutorials are designed to run in a Python 3 environment using Jupyter Note
 
 1. Install Anaconda (recommended)
 
-## Download and install Anaconda (https://www.anaconda.com/download), which comes preloaded with Python and Jupyter Notebook.
+* Download and install Anaconda (https://www.anaconda.com/download), which comes preloaded with Python and Jupyter Notebook.
 
 2. Create a New Environment
-conda create -n climate-data-analysis python=3.10
-conda activate climate-data-analysis
+* conda create -n climate-data-analysis python=3.10
+* conda activate climate-data-analysis
 
 3. Install Required Packages
 
-Run the following to install the dependencies:
-
-conda install numpy pandas matplotlib cartopy jupyter
+* Run the following to install the dependencies:
+    * conda install numpy pandas matplotlib cartopy jupyter
 
 4. Launch Jupyter Notebook
-jupyter notebook
+* jupyter notebook
 
 Files Overview
 -----------------
