@@ -13,9 +13,9 @@ Perform basic analysis of climate data in various formats using Jupyter Notebook
 * Identify areas where we could further utilize and/or develop tools within the group.
 
 # References: 
-* Python Tutorials for Atmospheric and Geophysical Sciences, https://sage.nelson.wisc.edu/data-and-models/python-tutorials/
+Python Tutorials for Atmospheric and Geophysical Sciences, https://sage.nelson.wisc.edu/data-and-models/python-tutorials/
 
 `Lab1_Introduction to Python.ipynb` 
-&#8594 define basic Python language structure and data types
-&#8594 understand simple code examples
-&#8594 operate a notebook and write your own code
+&nbsp; define basic Python language structure and data types
+&nbsp; understand simple code examples
+&nbsp; operate a notebook and write your own code
