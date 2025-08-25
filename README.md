@@ -12,7 +12,7 @@ These tutorials are designed to run in a Python 3 environment using Jupyter Note
    * Download and install Anaconda (https://www.anaconda.com/download), which comes preloaded with Python and Jupyter Notebook.
 
 2. Create a New Environment
-   * conda create -n climate-data-analysis python=3.10
+   * ```conda create -n climate-data-analysis python=3.10```
    * conda activate climate-data-analysis
 
 3. Install Required Packages
