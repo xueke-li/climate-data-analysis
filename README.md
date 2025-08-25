@@ -14,13 +14,13 @@ Files Overview
 * Work through simple code examples
 * Operate a Jupyter Notebook and begin writing your own code
 
-'Lab2_Exploring Spreadsheets and Tables with Pandas.ipynb'
+`Lab2_Exploring Spreadsheets and Tables with Pandas.ipynb` 
 * Open and read .csv (and .txt) files using Pandas
 * Practice data collection, screening, and exploration
 * Perform basic mathematical operations on DataFrames
 * Visualize and interpret datasets, and export plots
 
-'Lab3_Making Maps with Cartopy.ipynb'
+`Lab3_Making Maps with Cartopy.ipynb` 
 * Create base maps for areas of interest
 * Customize maps for your data
 * Display spatial data across multiple projections to best represent results
