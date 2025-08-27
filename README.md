@@ -1,7 +1,6 @@
 Climate Data Analysis
 ==============================================
-Python tutorials for Climate Science, developed for the Penn Undergraduate Research Mentoring Program (PURM).<br> 
-Authored by Xueke Li, Department of Earth and Environmental Science, University of Pennsylvania (Personal website: )
+Python tutorials for Climate Science, developed for the Penn Undergraduate Research Mentoring Program (PURM), by Xueke Li, Department of Earth and Environmental Science, University of Pennsylvania (Personal website: )
 
 Getting Started
 -------------------
